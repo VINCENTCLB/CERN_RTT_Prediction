@@ -1,0 +1,10 @@
+# Dataset release and derived artifacts: far too large for git.
+student_dataset/
+data/
+*.parquet
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
